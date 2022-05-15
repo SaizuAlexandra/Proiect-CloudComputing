@@ -2,7 +2,7 @@
 
 ## Saizu Alexandra
 ## Grupa 1119
-## Link youtube:
+## Link youtube: https://youtu.be/4tgsDXGh65k
 ## Link GitHub (FrontEnd+Backend) :https://github.com/SaizuAlexandra
 ## Link Publicare: https://main.dh86i5331h6tv.amplifyapp.com/
 
