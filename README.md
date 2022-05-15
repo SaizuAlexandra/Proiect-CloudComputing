@@ -117,11 +117,11 @@ Response: "{
 ##Capturi de ecran:
 (Pagina de intampinare)
   
-
+![CC_1](https://user-images.githubusercontent.com/105069983/168489202-2ce51924-ddae-449e-8199-e6490f34be81.png)
 
 (Rezultat)
  
-
+![CC_2](https://user-images.githubusercontent.com/105069983/168489235-a5537ac9-1895-4390-a5b0-cff3d6c8a0e4.png)
 
 ###Referinte
 
